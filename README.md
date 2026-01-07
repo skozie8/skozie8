@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://files.catbox.moe/ptinka.webp" width=100 height=100 align center>
-  <span align:center><a href="https://rentry.co/standardtime"> rentry </a> </span>
+  <span align:center><a href="https://rentry.co/standardtime">rentry </a> <br> <a href="https://skozie8.atabook.org/">atabook</a> </span>
   <br>
 </div>
 <br>
